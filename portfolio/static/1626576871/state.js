@@ -1,0 +1,1 @@
+window.__PORTFOLIO__=(function(a,b){return {staticAssetsBase:"\u002Fportfolio\u002Fstatic\u002F1626576871",layout:"default",error:a,serverRendered:true,routePath:b,config:{_app:{basePath:b,assetsPath:"\u002Fportfolio\u002F",cdnURL:a}}}}(null,"\u002F"));
